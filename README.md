@@ -1,4 +1,3 @@
-# WHOAMI
 ## I'm a currently learning Web Developemnt
 - 👋 Hi, I’m @chandanipatre
 - 👀 I’m interested in Coding & Video Editing
